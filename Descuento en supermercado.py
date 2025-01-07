@@ -3,7 +3,7 @@
 
 
 # Entrada de datos
-precio_sin_descuento = float(input ("Dijete el monto de la compra "))
+precio_sin_descuento = float(input ("Digite el monto de la compra "))
 descuento = float(input("Digite el descuento a aplicar "))
 
 # Calculo de descuento
