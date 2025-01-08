@@ -1,0 +1,2 @@
+# Una tienda tiene una oferta para vender un producto al por mayor. Si compras más de 3 docenas, te dan un descuento del 15%. 
+# Si compras 3 docenas o menos, el descuento es del 10%. El algoritmo debe calcular el monto total de la compra, el monto del descuento y el monto final que se debe pagar.
